@@ -3,9 +3,9 @@
 🚀 **AWS Certified Data Engineer | 4+ Years Experience**  
 🌎 Based in Maryville, MO | 📫 [bharadwajbairi3@gmail.com](mailto:bharadwajbairi3@gmail.com)
 
-<div align="right">
-  <img src="./certifications/image.png" alt="AWS Badge" width="100"/>
-  <img src="certifications/fundamentals-badge-databricks.png" alt="Databricks Badge" width="100"/>
+<div align="left">
+  <img src="./certifications/image.png" alt="AWS Badge" width="120"/>
+  <img src="./certifications/databricks_badge.png" alt="Databricks Badge" width="120"/>
 </div>
 
 ## 🧠 About Me

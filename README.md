@@ -3,6 +3,11 @@
 🚀 **AWS Certified Data Engineer | 4+ Years Experience**  
 🌎 Based in Maryville, MO | 📫 [bharadwajbairi3@gmail.com](mailto:bharadwajbairi3@gmail.com)
 
+<div align="right">
+  <img src="./certifications/image.png" alt="AWS Badge" width="100"/>
+  <img src="certifications/fundamentals-badge-databricks.png" alt="Databricks Badge" width="100"/>
+</div>
+
 ## 🧠 About Me
 
 Cloud-native Data Engineer with hands-on experience designing scalable, high-throughput ETL pipelines using AWS, GCP, Spark, and Kafka. I build cost-efficient solutions that support real-time analytics and data-driven decisions.
@@ -53,8 +58,6 @@ An end-to-end serverless data pipeline that collects, stores, transforms, and an
 
 ### 🏅 AWS Certified Data Engineer – Associate (July 2025)
 
-![AWS Badge](./certifications/image.png)
-
 <p align="center">
   <img src="./certifications/AWS Certified Data Engineer - Associate certificate_page-0001.jpg" alt="AWS Certification" width="600"/>
 </p>
@@ -65,6 +68,5 @@ An end-to-end serverless data pipeline that collects, stores, transforms, and an
 
 - 📧 [bharadwajbairi3@gmail.com](mailto:bharadwajbairi3@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/bharadwajbairi)  
-- 💻 [GitHub](https://github.com/bharadwajbairi3)
 
 *Thanks for stopping by! Feel free to connect or collaborate.*

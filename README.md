@@ -5,7 +5,7 @@
 
 <div align="left">
   <img src="./certifications/image.png" alt="AWS Badge" width="120"/>
-  <img src="./certifications/databricks_badge.png" alt="Databricks Badge" width="120"/>
+  <img src="certifications/fundamentals-badge-databricks.png" alt="Databricks Badge" width="120"/>
 </div>
 
 ## 🧠 About Me

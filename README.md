@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Bharadwaj Bairi
 
-🚀 **AWS Certified Data Engineer | 4+ Years Experience**  
+🚀 **AWS Certified Data Engineer | 3+ Years Experience**  
 🌎 Based in Maryville, MO | 📫 [bharadwajbairi3@gmail.com](mailto:bharadwajbairi3@gmail.com)
 
 <div align="left">
   <img src="./certifications/image.png" alt="AWS Badge" width="120"/>
-  <img src="certifications/fundamentals-badge-databricks.png" alt="Databricks Badge" width="120"/>
+  <img src="certifications/fundamentals-badge-databricks.png" alt="Databricks Badge" width="100"/>
 </div>
 
 ## 🧠 About Me
@@ -18,7 +18,7 @@ Cloud-native Data Engineer with hands-on experience designing scalable, high-thr
 - **Databases & Warehousing**: Snowflake, Amazon Redshift, BigQuery, PostgreSQL  
 - **Cloud Platforms**: AWS (Glue, Lambda, S3, Kinesis, Athena), GCP (BigQuery, Cloud Composer, GCS)  
 - **Orchestration & Streaming**: Apache Airflow, Kafka, Spark Streaming  
-- **Containers & DevOps**: Docker, Kubernetes, Git, Jenkins, Terraform  
+- **Containers & DevOps**: Docker, Kubernetes, Git, Jenkins 
 - **Visualization**: Amazon QuickSight, Tableau  
 - **Methodologies**: Agile, Scrum
 
@@ -59,7 +59,7 @@ An end-to-end serverless data pipeline that collects, stores, transforms, and an
 ### 🏅 AWS Certified Data Engineer – Associate (July 2025)
 
 <p align="center">
-  <img src="./certifications/AWS Certified Data Engineer - Associate certificate_page-0001.jpg" alt="AWS Certification" width="600"/>
+  <img src="./certifications/AWS Certified Data Engineer - Associate certificate_page-0001.jpg" alt="AWS Certification" width="500"/>
 </p>
 
 ## 📄 [Download My Resume](./Bharadwaj_DataEngineer_Resume.pdf)

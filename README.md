@@ -5,6 +5,7 @@
 
 <div align="left">
   <img src="./certifications/image.png" alt="AWS Badge" width="120"/>
+  <img src="./certifications/Snowflake_badge.png" alt="Snowflake Badge" width="120"/>
   <img src="certifications/fundamentals-badge-databricks.png" alt="Databricks Badge" width="100"/>
 </div>
 
@@ -61,6 +62,13 @@ An end-to-end serverless data pipeline that collects, stores, transforms, and an
 <p align="center">
   <img src="./certifications/AWS Certified Data Engineer - Associate certificate_page-0001.jpg" alt="AWS Certification" width="500"/>
 </p>
+
+### ❄️ Snowflake SnowPro Core Certification (July 2025)
+
+<p align="center">
+  <img src="./certifications/Snowflake_certification.png" alt="Snowflake Certification" width="500"/>
+</p>
+
 
 ## 📄 [Download My Resume](./Bharadwaj_DataEngineer_Resume.pdf)
 

@@ -70,7 +70,7 @@ An end-to-end serverless data pipeline that collects, stores, transforms, and an
 </p>
 
 
-## 📄 [Download My Resume](Bharadwaj_DataEngineer_Resume.docx)
+## 📄 [Download My Resume](Bharadwaj_DataEngineer_Resume.pdf)
 
 ## 📫 Contact Me
 

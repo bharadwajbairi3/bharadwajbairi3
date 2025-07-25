@@ -66,7 +66,7 @@ An end-to-end serverless data pipeline that collects, stores, transforms, and an
 ### ❄️ Snowflake SnowPro Core Certification (July 2025)
 
 <p align="center">
-  <img src="certifications/Snowflake_certification.pdf" alt="Snowflake Certification" width="500"/>
+  <img src="certifications/snowflake_certification.png" alt="Snowflake Certification" width="500"/>
 </p>
 
 
